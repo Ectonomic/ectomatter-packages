@@ -10,7 +10,7 @@
             "id": "evga-z10",
             "kind": "core",
             "name": "EVGA Z10 RGB",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "protocol": 4,
             "ectomatter": "0.1.0",
             "module": "core.wasm",
@@ -54,7 +54,7 @@
             ],
             "uses": []
           },
-          "sha256": "6ac9545a5447ea2664b304544fb9dc73e09ae8758cddf3c2482af46dcc091902"
+          "sha256": "778a9663fe3e2941e17e59078b62c4a0ef346568c8a2d9b5d036e539245b96c1"
         }
       ]
     },
